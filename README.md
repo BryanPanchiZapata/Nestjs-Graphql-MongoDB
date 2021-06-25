@@ -26,7 +26,7 @@
 
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
 
-## API REST CRUD con Nestjs, Graphql y MongoDB
+## API con Nestjs, Graphql y MongoDB
 
  Aplicación API REST CRUD que utiliza el marco NestJS, Graphql y MongoDB / Mongoose.
  
