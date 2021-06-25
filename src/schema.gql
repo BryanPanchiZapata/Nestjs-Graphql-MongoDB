@@ -1,0 +1,29 @@
+# ------------------------------------------------------
+# THIS FILE WAS AUTOMATICALLY GENERATED (DO NOT MODIFY)
+# ------------------------------------------------------
+
+type Automobile {
+  brand: String
+  id: ID
+  model: String
+  price: Float
+  type: String
+}
+
+input AutomobileInput {
+  brand: String
+  model: String
+  price: Int
+  type: String
+}
+
+type Mutation {
+  createAutomobile(automobile: AutomobileInput!): Automobile!
+  deleteAutomobile(id: String!): Automobile!
+  editAutomobile(automobile: AutomobileInput!, id: String!): Automobile!
+}
+
+type Query {
+  Automobiles: [Automobile!]!
+  automobile(id: String!): Automobile!
+}
