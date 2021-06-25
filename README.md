@@ -26,7 +26,14 @@
 
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
 
-## Installation
+## API REST CRUD con Nestjs, Graphql y MongoDB
+
+ Aplicación API REST CRUD que utiliza el marco NestJS, Graphql y MongoDB / Mongoose.
+ 
+## Pre-requisitos 📋
+Previamente se necesita tener instalado Node.js y MongoDB
+
+## Instalación 🔧
 
 ```bash
 $ npm install
@@ -41,32 +48,29 @@ $ npm run start
 # watch mode
 $ npm run start:dev
 
-# production mode
-$ npm run start:prod
 ```
+## Demostración ⌨️
+Get
+![image](https://user-images.githubusercontent.com/63554719/123368689-e1093680-d541-11eb-96ba-39e33d1b6be2.png)
+Post
+![image](https://user-images.githubusercontent.com/63554719/118207279-f0b53b80-b429-11eb-8e39-fd6d23b77e4a.png)
+Delete
+![image](https://user-images.githubusercontent.com/63554719/118207617-a7192080-b42a-11eb-8019-a526ad59bda5.png)
+Put
+![image](https://user-images.githubusercontent.com/63554719/118207463-56a1c300-b42a-11eb-933e-0b79d1a737d3.png)
 
-## Test
+## Construido con 🛠️
+* Nest.js - [https://nestjs.com](https://nestjs.com/)
+* Graphql - https://graphql.org/
+* MongoDB - https://www.mongodb.com/es
 
-```bash
-# unit tests
-$ npm run test
+## License 📄
 
-# e2e tests
-$ npm run test:e2e
+Nest is MIT licensed.
 
-# test coverage
-$ npm run test:cov
-```
+## Credits ✒️
 
-## Support
-
-Nest is an MIT-licensed open source project. It can grow thanks to the sponsors and support by the amazing backers. If you'd like to join them, please [read more here](https://docs.nestjs.com/support).
-
-## Stay in touch
-
-- Author - [Kamil Myśliwiec](https://kamilmysliwiec.com)
-- Website - [https://nestjs.com](https://nestjs.com/)
-- Twitter - [@nestframework](https://twitter.com/nestframework)
+[BryanPanchiZapata](https://github.com/BryanPanchiZapata)
 
 ## License
 
