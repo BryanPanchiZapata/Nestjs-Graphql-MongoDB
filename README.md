@@ -50,14 +50,14 @@ $ npm run start:dev
 
 ```
 ## Demostración ⌨️
-<b>Get<b>
+Get<br>
 ![image](https://user-images.githubusercontent.com/63554719/123368689-e1093680-d541-11eb-96ba-39e33d1b6be2.png)
 ![image](https://user-images.githubusercontent.com/63554719/123369064-9cca6600-d542-11eb-88fb-c55d735629e8.png)<br>
-Post
+Post<br>
 ![image](https://user-images.githubusercontent.com/63554719/123368915-4f4df900-d542-11eb-919a-20a8c7853f80.png)<br>
-Delete
+Delete<br>
 ![image](https://user-images.githubusercontent.com/63554719/123368969-6987d700-d542-11eb-83f7-d083d0c9c70a.png)<br>
-Put
+Put<br>
 ![image](https://user-images.githubusercontent.com/63554719/123369017-7c021080-d542-11eb-8f8f-10cbe397cd83.png)
 
 ## Construido con 🛠️
