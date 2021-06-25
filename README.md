@@ -1,3 +1,4 @@
+![2](https://user-images.githubusercontent.com/63554719/123368877-3d6c5600-d542-11eb-92a4-86af621cfa23.png)
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo_text.svg" width="320" alt="Nest Logo" /></a>
 </p>
@@ -52,12 +53,13 @@ $ npm run start:dev
 ## Demostración ⌨️
 Get
 ![image](https://user-images.githubusercontent.com/63554719/123368689-e1093680-d541-11eb-96ba-39e33d1b6be2.png)
+![image](https://user-images.githubusercontent.com/63554719/123369064-9cca6600-d542-11eb-88fb-c55d735629e8.png)
 Post
-![image](https://user-images.githubusercontent.com/63554719/118207279-f0b53b80-b429-11eb-8e39-fd6d23b77e4a.png)
+![image](https://user-images.githubusercontent.com/63554719/123368915-4f4df900-d542-11eb-919a-20a8c7853f80.png)
 Delete
-![image](https://user-images.githubusercontent.com/63554719/118207617-a7192080-b42a-11eb-8019-a526ad59bda5.png)
+![image](https://user-images.githubusercontent.com/63554719/123368969-6987d700-d542-11eb-83f7-d083d0c9c70a.png)
 Put
-![image](https://user-images.githubusercontent.com/63554719/118207463-56a1c300-b42a-11eb-933e-0b79d1a737d3.png)
+![image](https://user-images.githubusercontent.com/63554719/123369017-7c021080-d542-11eb-8f8f-10cbe397cd83.png)
 
 ## Construido con 🛠️
 * Nest.js - [https://nestjs.com](https://nestjs.com/)
