@@ -50,7 +50,7 @@ $ npm run start:dev
 
 ```
 ## Demostración ⌨️
-<h1>Get</h1><br>
+Get<br>
 ![image](https://user-images.githubusercontent.com/63554719/123368689-e1093680-d541-11eb-96ba-39e33d1b6be2.png)
 ![image](https://user-images.githubusercontent.com/63554719/123369064-9cca6600-d542-11eb-88fb-c55d735629e8.png)<br>
 Post<br>
