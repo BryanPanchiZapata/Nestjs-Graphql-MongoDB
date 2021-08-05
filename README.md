@@ -32,8 +32,7 @@
  
 ## Pre-requisitos 📋
 Previamente se necesita tener instalado Node.js y MongoDB
-asdhkashdksajdhaskjashd
-sadkhsakdd
+<p>sdfsdfdfsd</p>
 
 ## Instalación 🔧
 
