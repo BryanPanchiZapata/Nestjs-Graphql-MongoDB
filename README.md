@@ -31,7 +31,10 @@
  Aplicación API REST CRUD que utiliza el marco NestJS, Graphql y MongoDB / Mongoose.
  
 ## Pre-requisitos 📋
-Previamente se necesita tener instalado Node.js y MongoDB
+<p>Previamente se necesita tener instalado Node.js y MongoDB</p>
+<p>sadsadasda</p>
+<p>sadsadasda</p>
+<p>sadsadasda</p>
 
 ## Instalación 🔧
 
